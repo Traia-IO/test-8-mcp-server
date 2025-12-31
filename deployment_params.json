@@ -1,0 +1,17 @@
+{
+  "github_url": "https://github.com/Traia-IO/test-8-mcp-server",
+  "mcp_server": {
+    "name": "test-8-mcp",
+    "description": "Handleretryh andleretryhandler etryhandleretryhandleretry ",
+    "server_type": "streamable-http",
+    "requires_api_key": false,
+"capabilities": [
+      "example_tool"
+    ]
+  },
+  "deployment_method": "cloud_run",
+  "gcp_project_id": "traia-mcp-servers",
+  "gcp_region": "us-central1",
+  "tags": ["test 8", "api", "mcp"],
+  "ref": "main"
+} 
